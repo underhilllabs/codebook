@@ -1,4 +1,5 @@
 # Codebook
 
-**TODO: Add description**
+## A game written in Elixir, Phoenix and Elm
+
 
